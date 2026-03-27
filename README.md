@@ -17,5 +17,8 @@ I am a Developer passionate about **AI Computer Vision** and **Modern Web Develo
 ---
 
 ### 📊 GitHub Stats
-![Nutchanon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nutchanon2547&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nutchanon2547&layout=compact&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nutchanon2547&show_icons=true&theme=tokyonight" alt="Nutchanon's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nutchanon2547&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>

@@ -10,11 +10,12 @@ I am a Developer passionate about **AI Computer Vision** and **Modern Web Develo
 ---
 
 ### 🛠 Tech Stack & Tools
-- **AI/ML:** Python, YOLOv8, Roboflow
-- **Web:** React, Node.js, PHP, MySQL
-- **App:** Flutter
+- **AI/ML:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+- **Web:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+- **App:** ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
-![My Stats](https://github-readme-stats.vercel.app/api?username=Nutchanon2547&show_icons=true&theme=tokyonight)
+![Nutchanon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nutchanon2547&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nutchanon2547&layout=compact&theme=tokyonight)
